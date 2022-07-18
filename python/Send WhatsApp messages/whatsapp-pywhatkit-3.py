@@ -25,5 +25,5 @@ pywhatkit.sendwhatmsg_to_group(group_wa, "Hey All!", 0, 0)
 # Send a WhatsApp Message to a Group instantly
 pywhatkit.sendwhatmsg_to_group_instantly(group_wa, "Hey All!")
 
-# Plays Lovely by billie ellish on youtube
-pywhatkit.playonyt("lovely by billie")
+# Plays My Story by Brown Eyed Soul on youtube
+pywhatkit.playonyt("My Story by brown eyed soul")
